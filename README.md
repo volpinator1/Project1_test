@@ -12,4 +12,8 @@ this is a test file for project #1
 <img  src="https://cdn.datamentor.io/wp-content/uploads/2017/11/r-overlay-plots.png">
 </p>
 
+<p align="center">
 
+next title
+
+</p>
